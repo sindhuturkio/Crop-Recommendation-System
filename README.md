@@ -45,5 +45,18 @@ streamlit run app.py
 - Random Forest — 99.32% ✅ (Selected)
 - K-Nearest Neighbors (KNN) — 97.05%
 
+## 📊 Exploratory Data Analysis
+
+**Feature Correlation Heatmap**
+
+![Correlation Heatmap](output/correlation_heatmap.png)
+
+**Outlier Detection (Boxplots)**
+
+![Boxplots](output/boxplots.png)
+
 ## Author
 Sindhu Turkio
+
+## 🚀 Live Demo
+https://sindhu-crop-recommendation.streamlit.app/
